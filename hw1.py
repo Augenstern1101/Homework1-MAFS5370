@@ -19,7 +19,7 @@ The code consists of the following parts:
 3. Train the DNN model to get the optimal value function.
 4. Get the optimal path of investment strategy and wealth by using the trained DNN model.
 
-Our howework is completed by CHEN ZILING and CHEN YUWEI. We work together on the main code, which means the file hw1.py. While CHEN YUWEI contributes to the unit test and integration test part, and CHEN ZILING contributes to the code comments.
+Our homework is completed by CHEN ZILING and CHEN YUWEI. We work together on the main code, which means the file hw1.py. While CHEN YUWEI contributes to the unit test and integration test part, and CHEN ZILING contributes to the code comments.
 '''
 # set random seed for reproducibility
 np.random.seed(42)
